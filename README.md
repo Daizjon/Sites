@@ -1,4 +1,4 @@
-# WordPress Sites I have created and worked on:
+# Sites I have created and worked on:
 https://direwolfconsulting.com/ <br/>
 https://dorianwalkerlmt.com/ <br/>
 https://moundcityag.com/ <br/>
